@@ -1,0 +1,1 @@
+&&(pass[x+row[a]][y+col[a]]==0)
